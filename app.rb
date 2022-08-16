@@ -1,12 +1,13 @@
-puts "Hello world!"
-puts "Hello world!"
-puts ("Hello world!")
-puts "Hello world!"
+
+puts "Hello World!"
+#puts ("Hello world!")
+#puts "Hello world!"
 
 
 print "Hello world!"
 print ("Hello world!")
 print "Hello world!"
+print "Pass this test, please."
 
 
 puts [1, 2, 3]
